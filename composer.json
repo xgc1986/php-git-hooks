@@ -28,7 +28,7 @@
         "phpmd/phpmd": "~2.6",
         "symfony/dependency-injection": "~2.7|~3.0",
         "symfony/config": "~2.7|~3.0",
-        "symfony/yaml": "~2.7|~3.0",
+        "symfony/yaml": "~2.7|~3.0|~4.0",
         "fiunchinho/phpunit-randomizer": "~3.0",
         "seld/jsonlint": "~1.5",
         "bruli/ignore-files": "~1.0",
